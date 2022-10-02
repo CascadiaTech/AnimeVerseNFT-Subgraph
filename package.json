@@ -1,0 +1,41 @@
+{
+  "name": "animesubgraph",
+  "version": "6.14.13",
+  "description": "Animeverse-Subraph",
+  "main": "index.js",
+  "dependencies": {
+    "ansi-regex": "^5.0.1",
+    "ansi-styles": "^4.3.0",
+    "assemblyscript": "^0.19.10",
+    "binaryen": "^101.0.0-nightly.20210723",
+    "cliui": "^7.0.4",
+    "color-convert": "^2.0.1",
+    "color-name": "^1.1.4",
+    "emoji-regex": "^8.0.0",
+    "escalade": "^3.1.1",
+    "get-caller-file": "^2.0.5",
+    "is-fullwidth-code-point": "^3.0.0",
+    "long": "^4.0.0",
+    "require-directory": "^2.1.1",
+    "string-width": "^4.2.3",
+    "strip-ansi": "^6.0.1",
+    "wrap-ansi": "^7.0.0",
+    "y18n": "^5.0.8",
+    "yargs": "^17.5.1",
+    "yargs-parser": "^21.1.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CascadiaTech/AnimeVerseNFT-Subgraph.git"
+  },
+  "author": "@cryptoconner",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/CascadiaTech/AnimeVerseNFT-Subgraph/issues"
+  },
+  "homepage": "https://github.com/CascadiaTech/AnimeVerseNFT-Subgraph#readme"
+}
